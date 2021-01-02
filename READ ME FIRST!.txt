@@ -1,0 +1,22 @@
+NFS (CET372 Version) 
+by 
+Alperen Alan &
+Hakan Özger
+
+-Terrains created from scratch.
+-All assets brought from Unity Asset Store. 
+-Logo, Buttons, etc. created with Adobe Illustrator. 
+-Intro video created with OBS Studio & Adobe Premiere
+	(Assets/Media/trailer.mp4)
+	Sorry for low quality.
+-Music 
+	Intro:  DNCE - Blown
+	Scenes: ACDC - Highway to Hell
+		DNCE - Cake by the Ocean
+		DNCE - Blown
+
+
+Alperen Alan - 2012100162
+Hakan Özger  - 2012100186
+
+Developer for CET372 Midterm 1
